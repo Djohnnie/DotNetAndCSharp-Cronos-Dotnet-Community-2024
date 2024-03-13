@@ -1,0 +1,14 @@
+https://github.com/dotnet/core/tree/main/release-notes/9.0/preview/preview1
+https://github.com/dotnet/core/blob/main/release-notes/9.0/preview/preview1/libraries.md
+https://github.com/dotnet/core/blob/main/release-notes/9.0/preview/preview1/sdk.md
+https://github.com/dotnet/core/blob/main/release-notes/9.0/preview/preview1/runtime.md
+https://github.com/dotnet/core/blob/main/release-notes/9.0/preview/preview1/efcoreanddata.md
+https://github.com/dotnet/core/blob/main/release-notes/9.0/preview/preview1/aspnetcore.md
+https://github.com/dotnet/core/blob/main/release-notes/9.0/preview/preview1/dotnetmaui.md
+
+https://github.com/dotnet/core/tree/main/release-notes/9.0/preview/preview2
+https://github.com/dotnet/core/blob/main/release-notes/9.0/preview/preview2/sdk.md
+https://github.com/dotnet/core/blob/main/release-notes/9.0/preview/preview2/runtime.md
+https://github.com/dotnet/core/blob/main/release-notes/9.0/preview/preview2/aspnetcore.md
+https://github.com/dotnet/core/blob/main/release-notes/9.0/preview/preview2/dotnetmaui.md
+
